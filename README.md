@@ -1,0 +1,10 @@
+# AI Sentiment Analyzer
+
+This project analyzes text sentiment using Python.
+
+## Technologies Used
+- Python
+- TextBlob
+
+## Author
+Jahnavi
